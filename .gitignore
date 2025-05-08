@@ -1,3 +1,5 @@
 .env
 env
+catboost_info
 /catboost_info
+/flight_delay/catboost_info

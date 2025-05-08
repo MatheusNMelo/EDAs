@@ -1,0 +1,289 @@
+Building Address,Latitude,Longitude,City,Municipality,Date,Building Age,Price per m2,Number of apartments,Population Total,Pet Policy,Trash gathering interval/Days,Trash collected in kg
+"Viela de Viana, 381",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2021-11-17T17:52:10,52,22435,32,128,True,2,596.73
+"Área Lima, 67",-22.92306,-53.13722,Sao_Paulo,Loanda,2023-03-18T11:25:02,40,13805,37,222,True,2,580.17
+"Via Mariana Mendes, 9",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-02-24T16:13:16,50,23121,25,50,True,1,42.78
+"Sítio Fogaça, 815",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2022-08-01T06:05:01,30,28804,25,50,True,2,139.94
+"Chácara Daniela Duarte, 24",-20.25333,-43.80139,Sao_Paulo,Itabirito,2021-11-12T10:14:18,61,22596,26,104,True,2,353.36
+"Área Peixoto, 3",-20.25333,-43.80139,Sao_Paulo,Itabirito,2023-02-15T11:29:37,31,12755,29,87,False,2,338.49
+"Vereda de Rocha, 418",-23.44361,-51.87389,Sao_Paulo,Sarandi,2021-07-10T04:50:05,61,24249,19,57,False,2,72.49
+"Campo Nogueira, 50",-19.72806,-50.19556,Sao_Paulo,Iturama,2021-08-07T02:44:59,63,8547,27,108,True,2,522.65
+"Avenida Kevin da Rosa, 76",-28.44917,-52.2,Sao_Paulo,Marau,2022-03-19T12:17:04,20,14901,20,40,True,2,229.33
+"Distrito de Ferreira, 48",-25.42778,-49.27306,Sao_Paulo,Curitiba,2021-08-30T00:24:00,36,22300,29,87,False,2,547.84
+"Distrito de Peixoto, 85",-8.66667,-35.71667,Recife,Catende,2021-11-07T20:39:35,52,8226,35,140,True,2,448.28
+"Pátio de Souza, 9",-8.28333,-35.03333,Recife,Cabo,2022-02-17T14:54:19,59,8320,21,84,True,3,382.09
+"Viaduto de Castro, 4",-28.44917,-52.2,Sao_Paulo,Marau,2022-03-09T01:15:12,56,17317,38,190,True,3,1752.85
+"Rua Rezende, 55",-22.92306,-53.13722,Sao_Paulo,Loanda,2021-11-21T01:58:14,66,18026,26,52,True,4,200.23
+Chácara Helena Pires,-20.25333,-43.80139,Sao_Paulo,Itabirito,2021-09-29T06:18:29,58,22692,37,74,False,2,228.58
+Chácara de Souza,-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-03-15T02:01:37,58,21499,7,28,True,2,96.05
+Setor Sales,-25.42944,-50.00639,Sao_Paulo,Palmeira,2022-08-18T22:00:25,23,16559,45,135,True,2,550.28
+"Vereda Pedro Henrique Ribeiro, 799",-21.42917,-45.94722,Sao_Paulo,Alfenas,2021-09-20T09:47:14,46,14847,36,72,False,2,421.01
+"Condomínio Fernando Cavalcanti, 350",-28.44917,-52.2,Sao_Paulo,Marau,2022-07-19T23:56:27,35,17418,26,130,False,4,1029.02
+"Vila João Pedro Gomes, 91",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-12-26T03:09:27,23,13938,13,39,True,2,169.59
+"Trecho de Moura, 21",-21.42917,-45.94722,Sao_Paulo,Alfenas,2022-07-05T21:25:26,45,22358,31,93,False,3,523.88
+Residencial Pedro Miguel da Rosa,-26.22861,-52.67056,Sao_Paulo,Pato Branco,2023-04-07T01:29:03,42,21090,31,124,False,1,210.89
+"Viaduto Moreira, 56",-8.66667,-35.71667,Recife,Catende,2023-01-14T05:11:26,52,8258,19,95,False,3,272.01
+"Praça da Luz, 52",-26.22861,-52.67056,Sao_Paulo,Pato Branco,2022-06-01T20:11:06,54,17821,29,116,False,1,234.27
+"Trevo João Lucas Santos, 5",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2022-08-24T05:32:14,29,25374,28,224,True,1,119.91
+"Passarela Emanuel da Mata, 5",-21.42917,-45.94722,Sao_Paulo,Alfenas,2023-04-15T13:58:28,50,19404,14,98,True,2,131.77
+"Conjunto de Costa, 9",-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-06-16T05:31:27,61,14723,31,93,True,1,251.53
+"Jardim de Martins, 14",-8.28333,-35.03333,Recife,Cabo,2021-11-10T20:59:51,43,8764,26,78,False,4,108.51
+"Distrito de Barros, 23",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-01-30T08:44:36,52,20603,32,64,True,3,248.71
+"Viela de da Luz, 76",-19.32556,-41.25528,Sao_Paulo,Resplendor,2021-12-25T02:16:19,56,21185,28,112,False,5,714.35
+"Pátio Mendes, 57",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-08-05T15:37:06,54,20250,27,135,True,3,43.67
+"Jardim Duarte, 67",-22.57306,-47.1725,Sao_Paulo,Artur Nogueira,2023-01-02T06:15:20,45,28026,39,117,False,3,29.11
+"Colônia Samuel Moreira, 15",-21.41222,-42.19667,Sao_Paulo,Miracema,2021-11-01T02:32:03,54,20143,29,116,False,2,614.54
+"Sítio Nunes, 46",-26.22861,-52.67056,Sao_Paulo,Pato Branco,2021-10-26T21:51:41,48,20397,30,30,False,4,258.74
+"Via Castro, 52",-26.22861,-52.67056,Sao_Paulo,Pato Branco,2022-10-12T12:29:45,44,14759,32,128,False,3,500.82
+"Condomínio Samuel da Cunha, 55",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2021-11-24T23:53:06,31,16927,26,104,False,3,625.42
+Parque Sophia Almeida,-28.44917,-52.2,Sao_Paulo,Marau,2021-11-06T03:54:54,50,26485,18,90,False,3,532.9
+"Sítio de Melo, 80",-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-05-02T02:14:18,77,24229,35,140,False,2,-17.61
+"Estrada de Caldeira, 1",-8.28333,-35.03333,Recife,Cabo,2022-10-26T14:47:23,48,8591,29,87,True,2,370.03
+"Quadra Almeida, 42",-23.7975,-48.59278,Sao_Paulo,Buri,2021-06-14T02:42:21,29,20153,24,120,True,3,745.89
+"Fazenda de Martins, 55",-26.22861,-52.67056,Sao_Paulo,Pato Branco,2021-07-02T22:34:21,35,16358,34,102,False,2,431.89
+"Vale Ribeiro, 28",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2022-10-28T11:20:32,40,16369,37,222,False,4,312.83
+"Trevo de da Cruz, 96",-28.24,-48.67028,Sao_Paulo,Imbituba,2022-03-30T19:55:23,27,26237,28,140,False,1,217.18
+"Estrada Helena Novaes, 46",-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-11-19T21:35:24,72,16501,40,160,False,3,960.22
+"Residencial Raquel da Mata, 83",-28.81833,-52.51028,Sao_Paulo,Soledade,2021-07-21T05:37:37,50,26352,28,112,False,3,349.3
+"Praia da Rocha, 573",-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-05-14T03:26:26,82,20422,46,276,True,4,1798.84
+"Vereda Bryan Rocha, 338",-19.72806,-50.19556,Sao_Paulo,Iturama,2022-04-12T06:31:28,6,21574,51,51,False,1,157.96
+"Vereda Fernandes, 39",-20.87306,-48.29694,Sao_Paulo,Viradouro,2023-01-27T13:50:54,61,23153,36,216,False,2,882.51
+"Estrada Ana Luiza Barbosa, 3",-28.44917,-52.2,Sao_Paulo,Marau,2021-05-28T03:17:36,36,20801,33,99,True,2,305.94
+"Loteamento Cardoso, 23",-22.97056,-46.99583,Sao_Paulo,Valinhos,2022-09-11T14:16:57,33,19291,26,182,True,3,874.93
+"Lago Valentina Pereira, 58",-21.205,-41.88778,Sao_Paulo,Itaperuna,2021-08-11T04:41:05,32,27688,31,124,True,2,-278.98
+"Praia Castro, 1",-22.53722,-42.98194,Sao_Paulo,Guapimirim,2022-05-16T23:53:46,53,15127,31,155,True,2,838.33
+"Praça Pedro Almeida, 79",-26.22861,-52.67056,Sao_Paulo,Pato Branco,2023-03-26T10:10:34,48,18978,28,112,True,4,322.35
+"Feira de Nascimento, 549",-26.22861,-52.67056,Sao_Paulo,Pato Branco,2021-08-25T12:24:15,63,17609,37,148,False,2,616.45
+Setor de da Luz,-28.44917,-52.2,Sao_Paulo,Marau,2023-02-05T20:09:33,37,16553,32,128,False,3,490.02
+"Lago Helena Peixoto, 65",-23.7975,-48.59278,Sao_Paulo,Buri,2022-06-25T00:23:25,40,19759,36,108,False,3,615.43
+"Pátio da Luz, 74",-8.28333,-35.03333,Recife,Cabo,2022-11-05T09:11:09,71,13016,14,56,True,2,103.84
+"Distrito Maitê Moraes, 8",-22.92306,-53.13722,Sao_Paulo,Loanda,2021-12-11T22:46:30,54,20366,25,25,False,3,150.23
+Campo da Rosa,-28.44917,-52.2,Sao_Paulo,Marau,2023-03-29T13:20:25,8,19772,34,102,False,1,-72.02
+"Aeroporto da Mata, 29",-21.205,-41.88778,Sao_Paulo,Itaperuna,2021-10-15T05:48:27,49,22246,30,90,True,3,485.44
+"Alameda Santos, 98",-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-08-14T16:25:24,76,13879,31,93,False,3,335.23
+"Chácara Gabrielly Sales, 1",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2023-03-26T00:59:20,43,18228,31,124,False,3,380.35
+"Vale Carvalho, 29",-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-10-10T15:35:21,37,21309,32,160,True,1,290.39
+"Estrada Enrico Lima, 77",-28.24,-48.67028,Sao_Paulo,Imbituba,2022-08-04T10:39:57,51,24181,40,200,True,2,593.94
+"Loteamento de Silveira, 88",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2023-04-10T02:54:47,57,12580,37,296,True,2,1235.92
+"Fazenda de Lima, 33",-22.57306,-47.1725,Sao_Paulo,Artur Nogueira,2022-12-21T20:55:50,24,22937,36,252,False,2,956.89
+"Campo Sales, 869",-8.28333,-35.03333,Recife,Cabo,2021-06-21T11:35:12,59,11828,20,40,False,5,155.91
+"Lago Nascimento, 702",-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-06-28T14:52:24,41,19777,18,90,True,3,79.26
+"Viaduto Stella Nunes, 209",-28.44917,-52.2,Sao_Paulo,Marau,2021-10-30T03:38:02,41,15425,45,135,False,4,1329.08
+"Recanto da Paz, 40",-20.25333,-43.80139,Sao_Paulo,Itabirito,2022-12-03T05:54:15,49,20797,38,38,False,5,306.3
+"Lagoa Campos, 61",-8.28333,-35.03333,Recife,Cabo,2023-02-14T03:49:41,47,10002,32,128,True,3,233.72
+"Campo Kamilly Santos, 549",-21.42917,-45.94722,Sao_Paulo,Alfenas,2022-04-20T21:55:10,30,17364,12,12,False,3,107.24
+"Estrada Azevedo, 78",-28.81833,-52.51028,Sao_Paulo,Soledade,2023-04-01T19:03:29,30,21601,30,150,False,1,67.15
+"Sítio da Mota, 1",-28.24,-48.67028,Sao_Paulo,Imbituba,2022-10-19T12:33:31,38,25908,27,108,True,2,456.19
+"Campo de Costela, 9",-25.42944,-50.00639,Sao_Paulo,Palmeira,2022-01-29T19:06:46,58,24903,28,168,True,3,1500.63
+Lago João Barros,-20.25333,-43.80139,Sao_Paulo,Itabirito,2022-10-28T19:10:59,39,19565,35,140,False,3,777.96
+Fazenda de Barros,-8.28333,-35.03333,Recife,Cabo,2023-03-15T05:48:48,47,10618,24,72,True,2,144.26
+Jardim Luiz Miguel Mendes,-22.97056,-46.99583,Sao_Paulo,Valinhos,2023-03-15T02:07:58,40,24201,27,135,False,3,1063.68
+"Residencial de Souza, 96",-28.44917,-52.2,Sao_Paulo,Marau,2021-10-22T19:49:19,52,25920,24,48,False,2,154.92
+"Trecho de da Rocha, 1",-23.44361,-51.87389,Sao_Paulo,Sarandi,2023-04-19T05:52:14,41,20967,39,117,False,3,386.39
+"Rua Clara Novaes, 55",-8.66667,-35.71667,Recife,Catende,2021-11-22T03:09:03,46,15457,28,28,False,4,189.89
+"Colônia Lopes, 74",-8.28333,-35.03333,Recife,Cabo,2023-02-03T02:12:47,48,9630,16,32,False,4,135.62
+"Vale Alana Peixoto, 857",-8.05389,-34.88111,Recife,Recife,2022-06-15T19:39:24,56,14521,16,32,True,4,140.44
+"Rua Luiz Fernando Cavalcanti, 53",-21.205,-41.88778,Sao_Paulo,Itaperuna,2022-06-17T18:05:18,36,23623,22,132,False,2,304.07
+"Residencial Gabrielly Ribeiro, 442",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-09-04T06:41:34,45,26317,36,108,False,1,115.59
+"Via de Lopes, 271",-22.97056,-46.99583,Sao_Paulo,Valinhos,2022-07-10T23:41:53,67,24003,36,108,False,1,160.21
+"Vila Isabella Gomes, 12",-21.205,-41.88778,Sao_Paulo,Itaperuna,2022-05-06T23:38:47,38,18411,30,180,True,5,1297.39
+"Campo Laura Mendes, 92",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2022-08-08T01:04:26,30,21174,24,72,True,2,368.6
+"Praça de Nunes, 8",-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-11-22T21:02:16,35,22612,31,124,True,5,904.01
+"Praia de Fernandes, 223",-25.42944,-50.00639,Sao_Paulo,Palmeira,2023-02-06T05:01:00,37,14019,25,150,True,2,222.61
+"Fazenda de Nunes, 6",-28.44917,-52.2,Sao_Paulo,Marau,2022-12-12T15:14:14,54,21606,30,90,True,3,463.88
+"Aeroporto de Dias, 41",-25.42944,-50.00639,Sao_Paulo,Palmeira,2021-11-16T00:22:48,55,21621,37,148,True,1,436.53
+"Lagoa Marcela Araújo, 903",-8.28333,-35.03333,Recife,Cabo,2022-12-27T17:46:05,46,11804,23,69,False,4,584.29
+"Travessa Olivia Porto, 65",-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-11-16T01:21:40,57,20076,31,155,True,3,927.63
+Vila Isis Sales,-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-10-18T04:55:01,56,16059,32,96,True,2,453.06
+"Campo de Fernandes, 15",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2022-10-22T03:49:30,36,16239,34,102,True,3,743.08
+"Passarela Campos, 49",-22.92306,-53.13722,Sao_Paulo,Loanda,2022-08-18T00:31:27,25,21617,23,46,True,3,239.87
+"Campo Melissa Vieira, 80",-28.81833,-52.51028,Sao_Paulo,Soledade,2022-09-30T12:31:37,65,18134,37,148,True,2,22.84
+"Passarela Cavalcanti, 97",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-05-29T21:13:14,4,17193,27,108,False,4,1061.77
+"Praça Pereira, 211",-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-11-28T14:35:25,50,23534,31,93,False,3,301.9
+"Largo Correia, 82",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2023-02-16T05:42:12,52,24445,26,104,False,1,83.77
+"Feira Cunha, 74",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-12-04T17:22:25,64,12661,24,96,False,2,432.85
+"Largo Marina Ribeiro, 982",-8.05389,-34.88111,Recife,Recife,2022-09-04T19:07:50,55,10217,35,210,True,3,1239.59
+"Travessa Gomes, 230",-19.32556,-41.25528,Sao_Paulo,Resplendor,2023-01-14T09:30:33,39,10905,25,100,True,3,549.17
+Quadra Teixeira,-28.81833,-52.51028,Sao_Paulo,Soledade,2022-03-13T12:42:28,51,20604,28,140,False,2,577.07
+"Parque Ana Lívia Gonçalves, 8",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2022-05-10T06:54:23,37,18638,22,110,False,2,258.49
+Fazenda de Pires,-25.42944,-50.00639,Sao_Paulo,Palmeira,2022-01-21T09:26:21,32,20879,21,42,False,4,543.16
+"Condomínio de Ribeiro, 788",-21.205,-41.88778,Sao_Paulo,Itaperuna,2021-06-21T08:52:47,57,17036,27,108,False,1,222.41
+Viaduto de Cardoso,-23.7975,-48.59278,Sao_Paulo,Buri,2021-06-20T04:35:22,22,17607,31,155,False,4,1090.11
+Largo Alexia Fogaça,-22.57306,-47.1725,Sao_Paulo,Artur Nogueira,2022-02-16T16:11:41,64,19882,38,114,False,1,75.73
+Campo Santos,-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-04-02T01:39:31,45,13045,18,72,True,1,60.15
+"Largo Francisco Caldeira, 2",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2022-04-08T07:59:46,48,23180,26,78,True,4,634.99
+"Loteamento de da Cruz, 39",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2022-04-16T05:24:38,51,19312,24,96,True,2,733.47
+"Pátio Fernandes, 375",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2023-04-12T14:04:27,59,22608,35,105,False,2,347.04
+"Vale de Costela, 57",-23.44361,-51.87389,Sao_Paulo,Sarandi,2021-09-16T18:48:05,68,23281,25,50,False,3,199.45
+"Viaduto de Castro, 26",-21.205,-41.88778,Sao_Paulo,Itaperuna,2022-12-25T03:24:44,26,12930,22,88,True,4,723.01
+"Alameda Costa, 2",-21.41222,-42.19667,Sao_Paulo,Miracema,2022-11-02T08:51:48,55,22877,21,63,False,3,458.06
+"Sítio Renan Nogueira, 5",-19.32556,-41.25528,Sao_Paulo,Resplendor,2022-11-19T01:18:16,34,23365,27,108,False,2,207.28
+"Núcleo Maria Sophia Pinto, 76",-22.97056,-46.99583,Sao_Paulo,Valinhos,2021-12-16T20:55:55,32,21061,40,160,False,1,235.99
+"Praça de da Luz, 27",-22.92306,-53.13722,Sao_Paulo,Loanda,2022-06-27T12:35:42,41,14318,26,104,False,2,562.24
+"Trevo Mendes, 5",-20.87306,-48.29694,Sao_Paulo,Viradouro,2021-11-05T07:56:47,41,24553,30,120,False,3,1035.29
+"Via Rodrigues, 62",-8.66667,-35.71667,Recife,Catende,2023-02-15T17:41:12,38,11506,25,75,True,3,376.22
+"Fazenda Araújo, 76",-28.24,-48.67028,Sao_Paulo,Imbituba,2022-03-04T04:17:31,49,22763,38,38,False,2,153.0
+"Área de Azevedo, 95",-8.28333,-35.03333,Recife,Cabo,2021-09-22T04:14:36,58,12105,28,84,False,2,19.41
+"Praça Paulo Caldeira, 88",-28.24,-48.67028,Sao_Paulo,Imbituba,2022-09-04T09:06:27,64,25110,17,34,False,2,53.74
+"Morro Bruna Pereira, 37",-22.53722,-42.98194,Sao_Paulo,Guapimirim,2023-02-13T07:16:56,52,23220,33,99,True,1,245.02
+"Parque de da Mata, 22",-21.42917,-45.94722,Sao_Paulo,Alfenas,2021-08-12T06:23:07,46,18385,21,84,False,3,616.98
+"Área da Mata, 69",-25.42778,-49.27306,Sao_Paulo,Curitiba,2021-08-06T17:57:48,20,18055,36,144,True,2,471.27
+"Condomínio Alexia Alves, 56",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2023-01-16T11:42:20,60,24209,36,72,True,3,429.26
+"Lago Raul das Neves, 58",-20.87306,-48.29694,Sao_Paulo,Viradouro,2021-08-30T00:12:52,24,16626,27,54,True,3,235.93
+Favela de Lima,-21.42917,-45.94722,Sao_Paulo,Alfenas,2021-05-27T15:32:48,47,22873,15,105,False,1,146.55
+Alameda de da Conceição,-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2022-03-15T13:03:37,64,16546,34,34,False,3,181.05
+"Conjunto de da Mota, 47",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2022-09-02T05:49:59,48,12797,9,9,False,2,35.37
+"Jardim de da Cunha, 85",-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-09-20T17:03:40,30,24816,39,78,True,2,185.2
+Vereda Letícia Caldeira,-8.28333,-35.03333,Recife,Cabo,2022-09-20T20:19:16,46,7170,28,112,False,4,441.98
+"Avenida de Cunha, 285",-19.32556,-41.25528,Sao_Paulo,Resplendor,2021-09-19T03:13:57,57,11253,30,120,True,5,1605.14
+"Jardim de Castro, 250",-8.66667,-35.71667,Recife,Catende,2023-01-12T01:54:19,39,8982,26,130,False,2,195.67
+"Rua da Luz, 70",-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-11-12T17:38:09,36,5656,32,128,True,2,426.94
+"Trecho Pinto, 460",-22.53722,-42.98194,Sao_Paulo,Guapimirim,2023-04-15T15:28:48,60,19827,29,174,False,3,1515.67
+"Rodovia Farias, 511",-20.87306,-48.29694,Sao_Paulo,Viradouro,2021-08-19T20:17:55,62,16555,29,87,False,3,667.43
+"Alameda de Monteiro, 8",-28.44917,-52.2,Sao_Paulo,Marau,2021-08-09T23:20:27,53,16918,26,104,True,2,320.85
+"Travessa Monteiro, 77",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-06-25T10:47:23,37,22416,38,190,True,4,1818.38
+"Morro Kevin Mendes, 76",-21.42917,-45.94722,Sao_Paulo,Alfenas,2021-09-16T21:59:10,47,23434,33,99,False,2,458.19
+"Fazenda Mariana Moraes, 60",-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-05-09T16:24:17,31,23232,33,132,True,3,1010.87
+Trevo Cunha,-26.22861,-52.67056,Sao_Paulo,Pato Branco,2022-09-09T10:35:17,31,22645,29,174,False,2,461.93
+"Morro de Silva, 12",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2022-10-27T07:55:40,29,19287,25,150,True,2,698.83
+"Largo Erick Carvalho, 204",-8.05389,-34.88111,Recife,Recife,2023-01-23T19:04:41,48,8519,22,44,True,5,425.26
+"Morro de Jesus, 79",-22.92306,-53.13722,Sao_Paulo,Loanda,2022-05-26T03:41:39,69,19536,28,112,True,2,323.22
+"Praça de Caldeira, 92",-22.57306,-47.1725,Sao_Paulo,Artur Nogueira,2022-09-03T07:29:56,38,18934,35,210,True,3,401.53
+"Colônia de Barros, 86",-28.44917,-52.2,Sao_Paulo,Marau,2021-10-24T02:51:47,77,17168,36,144,True,2,752.45
+"Viela de Cardoso, 6",-22.57306,-47.1725,Sao_Paulo,Artur Nogueira,2022-11-04T06:46:03,71,21363,30,120,True,4,1169.44
+"Jardim Almeida, 418",-19.32556,-41.25528,Sao_Paulo,Resplendor,2021-11-16T00:59:51,35,26387,29,58,True,4,252.44
+"Condomínio de Martins, 72",-19.32556,-41.25528,Sao_Paulo,Resplendor,2021-08-04T11:24:51,67,18815,34,68,True,2,147.63
+"Loteamento de Viana, 15",-28.44917,-52.2,Sao_Paulo,Marau,2022-08-03T22:30:35,48,27764,34,102,False,2,395.2
+"Jardim de Fernandes, 95",-8.66667,-35.71667,Recife,Catende,2021-09-10T15:31:59,57,7337,22,44,False,3,401.56
+"Loteamento Lívia Cavalcanti, 1",-19.32556,-41.25528,Sao_Paulo,Resplendor,2021-08-10T15:52:56,47,15912,37,74,True,2,148.66
+"Passarela Lopes, 58",-23.44361,-51.87389,Sao_Paulo,Sarandi,2023-01-24T20:00:03,55,23879,32,128,True,2,893.91
+"Avenida de Rocha, 185",-8.66667,-35.71667,Recife,Catende,2022-12-24T07:16:09,56,10360,26,104,True,2,548.98
+"Trevo Marcelo Silva, 804",-22.92306,-53.13722,Sao_Paulo,Loanda,2021-09-21T09:57:59,46,23007,10,30,False,3,214.29
+"Esplanada de Porto, 99",-8.05389,-34.88111,Recife,Recife,2022-06-17T01:54:41,59,12169,22,22,False,3,73.57
+"Lago Camila Aragão, 70",-21.205,-41.88778,Sao_Paulo,Itaperuna,2021-08-17T01:48:50,41,22735,30,90,True,1,173.47
+Pátio da Paz,-20.25333,-43.80139,Sao_Paulo,Itabirito,2023-04-11T23:16:10,62,17540,14,42,False,3,41.5
+"Campo Barros, 95",-23.7975,-48.59278,Sao_Paulo,Buri,2023-03-31T02:24:22,67,18636,29,116,False,2,437.26
+"Largo Daniel Campos, 91",-22.53722,-42.98194,Sao_Paulo,Guapimirim,2023-03-25T09:59:25,41,11521,29,145,True,2,514.67
+"Estrada de Pinto, 27",-19.32556,-41.25528,Sao_Paulo,Resplendor,2022-12-19T01:11:37,37,26558,27,54,True,1,12.32
+"Lagoa Davi Rezende, 11",-28.81833,-52.51028,Sao_Paulo,Soledade,2022-02-02T08:08:39,24,15749,42,210,True,4,1112.24
+"Estrada Almeida, 909",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2023-02-16T06:22:43,84,20810,43,215,False,2,283.11
+Estrada de Mendes,-28.24,-48.67028,Sao_Paulo,Imbituba,2021-06-28T14:12:04,32,17391,31,124,True,3,752.45
+Morro de da Rosa,-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2021-12-15T07:57:03,55,10613,21,126,False,2,175.88
+"Setor da Rosa, 9",-20.87306,-48.29694,Sao_Paulo,Viradouro,2023-02-13T14:47:58,30,16868,30,90,False,3,560.58
+"Campo de Dias, 36",-22.97056,-46.99583,Sao_Paulo,Valinhos,2022-10-19T10:33:48,35,21337,42,210,False,2,1015.08
+"Avenida Lorena Costa, 877",-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-07-25T23:42:34,32,27034,14,56,True,4,23.29
+"Ladeira Rafael Fogaça, 680",-28.81833,-52.51028,Sao_Paulo,Soledade,2021-07-15T10:26:18,53,23964,39,273,True,3,1067.39
+"Conjunto Mendes, 27",-23.7975,-48.59278,Sao_Paulo,Buri,2022-06-08T14:50:05,45,18189,25,100,False,2,115.64
+"Lago Santos, 95",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2022-03-14T20:19:28,22,27551,26,130,False,3,632.63
+"Vereda de Cardoso, 4",-22.53722,-42.98194,Sao_Paulo,Guapimirim,2023-02-04T23:08:16,63,13268,34,136,True,2,994.35
+"Jardim Dias, 6",-8.28333,-35.03333,Recife,Cabo,2022-03-08T20:40:08,62,10641,28,56,False,2,48.17
+"Estação Freitas, 7",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2022-07-24T20:12:39,5,6588,21,63,True,2,192.46
+"Pátio de Moraes, 55",-21.42917,-45.94722,Sao_Paulo,Alfenas,2021-08-10T08:05:28,57,23668,20,40,False,3,136.2
+"Trecho Mendes, 68",-22.53722,-42.98194,Sao_Paulo,Guapimirim,2021-07-19T20:27:21,33,15477,34,204,True,3,916.24
+"Colônia Emanuelly Pires, 12",-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-08-06T08:38:40,45,8604,30,150,False,3,786.27
+"Parque João Guilherme Costa, 10",-22.97056,-46.99583,Sao_Paulo,Valinhos,2022-10-22T14:32:36,37,21922,21,105,True,2,329.51
+"Lagoa de Campos, 157",-8.05389,-34.88111,Recife,Recife,2022-09-23T04:38:13,44,8662,29,145,False,3,405.88
+Chácara de Pereira,-22.53722,-42.98194,Sao_Paulo,Guapimirim,2022-04-05T16:06:37,68,15163,29,174,True,2,885.71
+"Avenida de Pinto, 14",-20.87306,-48.29694,Sao_Paulo,Viradouro,2021-10-02T21:26:57,63,16609,36,36,False,2,149.06
+"Quadra Nogueira, 79",-22.92306,-53.13722,Sao_Paulo,Loanda,2022-09-14T14:34:12,43,23895,41,82,True,2,237.03
+"Setor de Costa, 14",-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-03-26T02:06:06,44,20148,30,60,True,2,272.28
+"Loteamento de Lima, 126",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2023-01-27T14:02:14,29,20887,33,66,False,2,217.13
+Estrada Campos,-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-09-14T14:49:44,40,22168,26,104,False,5,574.93
+"Via Carolina Campos, 68",-19.72806,-50.19556,Sao_Paulo,Iturama,2023-01-17T00:40:06,26,19889,28,140,False,4,543.91
+Viela Caroline Peixoto,-21.42917,-45.94722,Sao_Paulo,Alfenas,2022-08-01T07:04:25,62,17611,34,272,False,2,1650.0
+"Setor Igor Carvalho, 856",-22.57306,-47.1725,Sao_Paulo,Artur Nogueira,2023-03-13T01:02:49,63,22089,37,37,False,3,283.56
+Vila Caldeira,-26.22861,-52.67056,Sao_Paulo,Pato Branco,2022-01-14T16:54:14,26,26603,34,102,True,2,331.28
+"Travessa Monteiro, 5",-8.66667,-35.71667,Recife,Catende,2021-05-22T10:20:58,50,6915,19,95,False,2,499.91
+"Rodovia de da Rocha, 32",-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-07-05T21:18:14,56,21564,33,198,False,4,1733.01
+"Campo Ian Gomes, 69",-8.66667,-35.71667,Recife,Catende,2022-05-12T18:13:37,49,11170,20,80,True,5,347.76
+"Quadra Santos, 5",-22.97056,-46.99583,Sao_Paulo,Valinhos,2021-12-28T14:03:09,40,17308,26,52,False,2,52.08
+"Trecho da Cunha, 840",-21.41222,-42.19667,Sao_Paulo,Miracema,2022-08-11T17:39:25,46,23610,28,140,True,3,538.84
+"Colônia Caldeira, 71",-8.66667,-35.71667,Recife,Catende,2022-04-07T14:11:43,30,9049,28,140,True,2,737.72
+"Largo de Barros, 77",-25.42944,-50.00639,Sao_Paulo,Palmeira,2021-07-12T02:52:40,69,11512,19,76,False,1,99.83
+"Rua Moura, 42",-22.97056,-46.99583,Sao_Paulo,Valinhos,2022-03-26T14:06:06,86,21345,42,168,False,2,720.79
+Fazenda de Nascimento,-21.205,-41.88778,Sao_Paulo,Itaperuna,2021-06-10T18:01:44,42,17420,33,66,True,2,502.14
+"Área Mirella Almeida, 8",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-08-14T14:41:54,35,17856,37,74,True,3,279.72
+"Lago de Caldeira, 8",-19.32556,-41.25528,Sao_Paulo,Resplendor,2022-10-25T11:04:05,57,25322,30,120,False,2,300.05
+"Aeroporto Breno Vieira, 83",-22.92306,-53.13722,Sao_Paulo,Loanda,2022-01-14T03:16:02,61,22875,27,108,False,2,477.09
+"Vila de Novaes, 39",-22.53722,-42.98194,Sao_Paulo,Guapimirim,2021-10-26T01:33:19,35,18008,24,144,True,2,358.91
+"Campo Catarina Barros, 96",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2022-12-30T16:46:19,58,15039,32,160,True,4,1231.0
+"Trevo de Costela, 80",-19.32556,-41.25528,Sao_Paulo,Resplendor,2023-03-14T05:52:38,45,19173,31,155,False,3,801.25
+"Rua Davi Luiz Caldeira, 9",-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-03-02T07:29:53,43,11831,34,102,True,3,555.62
+"Largo Ana Sophia Castro, 95",-21.41222,-42.19667,Sao_Paulo,Miracema,2022-12-07T01:57:26,48,19200,37,111,True,3,382.52
+"Núcleo Gomes, 67",-8.05389,-34.88111,Recife,Recife,2022-12-04T18:00:54,56,11998,31,93,False,1,107.74
+"Área de Rodrigues, 21",-26.22861,-52.67056,Sao_Paulo,Pato Branco,2021-06-08T01:23:13,44,27681,41,205,False,3,1530.26
+"Estrada da Mota, 36",-23.44361,-51.87389,Sao_Paulo,Sarandi,2023-04-01T16:08:57,45,30414,31,31,True,2,104.04
+"Residencial Ana Luiza Ferreira, 3",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2022-06-28T12:03:05,60,16503,31,93,False,3,432.02
+"Alameda Ana Júlia Pires, 65",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-11-13T01:18:11,21,23487,23,138,True,2,542.08
+"Ladeira Aragão, 144",-22.97056,-46.99583,Sao_Paulo,Valinhos,2022-04-17T12:02:50,0,10519,34,68,True,3,413.97
+"Praia de Ferreira, 69",-21.41222,-42.19667,Sao_Paulo,Miracema,2023-02-03T11:11:12,75,17703,24,48,False,2,344.07
+"Praia Luigi da Cruz, 23",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-08-21T00:18:00,45,16313,39,117,True,2,613.77
+Núcleo de Cardoso,-26.22861,-52.67056,Sao_Paulo,Pato Branco,2022-10-29T19:49:01,44,22155,30,180,False,2,437.48
+"Passarela da Mata, 61",-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-01-13T22:39:55,47,17316,44,176,False,2,881.64
+"Travessa Luiza da Costa, 16",-19.72806,-50.19556,Sao_Paulo,Iturama,2023-02-26T05:27:57,54,10414,27,162,True,3,817.2
+Distrito Aragão,-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2023-03-10T00:41:23,72,16942,24,48,False,3,243.87
+"Núcleo de Costela, 43",-22.97056,-46.99583,Sao_Paulo,Valinhos,2021-07-22T17:58:34,54,21072,23,46,True,3,233.15
+"Colônia Gonçalves, 95",-23.44361,-51.87389,Sao_Paulo,Sarandi,2022-01-28T01:54:32,22,24755,26,52,False,3,254.83
+"Conjunto de Alves, 51",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2021-10-03T22:44:08,39,11428,28,84,False,3,258.97
+"Sítio Cauê Freitas, 74",-20.25333,-43.80139,Sao_Paulo,Itabirito,2022-07-22T10:05:37,43,17905,45,225,False,3,1447.61
+"Chácara Cunha, 39",-25.42944,-50.00639,Sao_Paulo,Palmeira,2022-06-23T10:41:06,30,14331,26,104,True,5,472.41
+"Ladeira Daniel Pinto, 75",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-09-30T20:14:10,54,16913,39,156,True,2,143.31
+"Área de Lopes, 37",-28.44917,-52.2,Sao_Paulo,Marau,2021-11-24T03:34:56,49,24491,34,102,False,3,931.95
+"Campo João Lucas Ramos, 2",-28.44917,-52.2,Sao_Paulo,Marau,2021-06-25T10:15:46,19,17146,37,37,True,3,320.69
+"Via Daniela Almeida, 8",-25.42778,-49.27306,Sao_Paulo,Curitiba,2021-10-28T02:09:05,42,20752,28,140,True,1,357.5
+"Estrada Ryan Cardoso, 35",-22.92306,-53.13722,Sao_Paulo,Loanda,2021-07-30T05:32:22,36,15277,20,20,True,4,49.98
+"Estrada Luiz Gustavo Costela, 77",-20.25333,-43.80139,Sao_Paulo,Itabirito,2022-09-19T23:36:49,43,17402,31,217,True,1,370.59
+"Condomínio Pires, 306",-28.81833,-52.51028,Sao_Paulo,Soledade,2021-05-27T17:37:53,53,17855,22,132,True,3,840.54
+"Trecho de Freitas, 64",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2021-08-11T01:28:33,38,17693,30,180,False,4,1047.78
+"Pátio Luiz Otávio da Conceição, 974",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2022-04-26T03:11:06,34,22982,33,198,False,2,852.81
+"Chácara da Costa, 80",-28.44917,-52.2,Sao_Paulo,Marau,2021-08-27T12:18:45,57,19458,22,66,True,5,829.95
+Parque Caldeira,-19.72806,-50.19556,Sao_Paulo,Iturama,2022-11-22T01:32:57,37,25866,27,81,False,3,578.98
+"Pátio Vieira, 54",-22.97056,-46.99583,Sao_Paulo,Valinhos,2021-11-19T21:09:44,61,19148,25,50,False,4,244.64
+"Passarela Almeida, 3",-23.44361,-51.87389,Sao_Paulo,Sarandi,2023-03-29T16:52:01,60,21552,31,186,True,3,1106.67
+"Recanto de Nogueira, 390",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-10-01T16:45:49,60,17105,39,273,True,3,401.73
+"Sítio de Gomes, 27",-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-02-09T01:36:59,58,17610,23,92,False,1,73.85
+"Residencial da Paz, 880",-21.42917,-45.94722,Sao_Paulo,Alfenas,2022-11-30T09:07:19,54,25732,36,144,True,2,604.69
+"Rodovia Ramos, 60",-25.42778,-49.27306,Sao_Paulo,Curitiba,2022-04-15T02:36:53,37,18918,32,192,False,3,1155.81
+"Viaduto de Araújo, 72",-8.28333,-35.03333,Recife,Cabo,2022-09-20T10:00:14,46,7083,30,60,False,4,305.94
+"Jardim de Novaes, 77",-8.28333,-35.03333,Recife,Cabo,2021-07-04T17:31:43,61,11363,19,76,False,2,291.95
+"Aeroporto Lucas Souza, 2",-8.28333,-35.03333,Recife,Cabo,2022-11-26T16:59:51,55,9672,32,128,False,1,209.26
+"Campo de Almeida, 25",-22.92306,-53.13722,Sao_Paulo,Loanda,2023-02-26T12:27:04,20,20256,35,175,False,2,1032.74
+Lago Moreira,-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2022-06-09T09:35:44,43,24317,19,76,False,3,160.29
+"Campo de Gonçalves, 62",-28.81833,-52.51028,Sao_Paulo,Soledade,2022-06-07T23:27:12,61,20980,29,29,False,4,203.96
+Loteamento Moraes,-8.05389,-34.88111,Recife,Recife,2021-05-30T14:02:01,35,5332,26,52,True,3,214.71
+"Parque Martins, 75",-19.32556,-41.25528,Sao_Paulo,Resplendor,2022-08-13T22:28:19,39,25141,20,60,False,3,320.43
+"Jardim Rezende, 72",-19.32556,-41.25528,Sao_Paulo,Resplendor,2023-01-10T18:17:15,32,25269,27,108,True,4,583.34
+"Rua Melo, 58",-19.32556,-41.25528,Sao_Paulo,Resplendor,2022-06-14T10:08:54,38,15089,39,156,True,2,908.9
+"Setor de Alves, 63",-21.41222,-42.19667,Sao_Paulo,Miracema,2021-05-30T18:58:52,33,22210,29,58,True,2,170.63
+"Favela de Freitas, 396",-25.42944,-50.00639,Sao_Paulo,Palmeira,2022-11-24T12:45:02,20,21073,40,200,True,1,637.99
+Estrada Fogaça,-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2021-11-18T15:12:23,51,23785,33,33,True,4,320.87
+"Jardim Larissa das Neves, 55",-23.7975,-48.59278,Sao_Paulo,Buri,2022-03-25T13:16:58,60,20091,33,99,True,1,101.66
+"Viaduto Luiz Gustavo da Cunha, 70",-23.7975,-48.59278,Sao_Paulo,Buri,2022-05-21T00:19:29,44,19360,10,60,True,2,252.3
+Lago Moraes,-22.57306,-47.1725,Sao_Paulo,Artur Nogueira,2022-12-21T07:18:06,51,25346,25,50,False,3,268.94
+"Vila Melissa Vieira, 1",-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-09-30T17:45:54,44,17278,27,81,False,3,541.68
+"Lago de Silva, 45",-28.81833,-52.51028,Sao_Paulo,Soledade,2022-04-29T12:39:45,39,15804,34,68,False,3,558.1
+"Vale de Souza, 6",-21.41222,-42.19667,Sao_Paulo,Miracema,2021-09-10T20:09:11,57,17063,29,145,True,1,345.35
+"Travessa Heloísa Martins, 901",-25.42778,-49.27306,Sao_Paulo,Curitiba,2023-04-21T21:45:43,49,18616,10,20,True,2,95.41
+"Via Sales, 39",-25.42944,-50.00639,Sao_Paulo,Palmeira,2023-01-11T19:54:37,59,19660,35,175,True,3,918.04
+"Jardim de Novaes, 82",-28.44917,-52.2,Sao_Paulo,Marau,2021-10-06T06:48:31,42,29270,31,155,True,1,136.28
+Feira Isabella Ribeiro,-20.87306,-48.29694,Sao_Paulo,Viradouro,2022-02-28T11:31:53,76,14399,33,165,True,2,599.36
+"Jardim Rafael Duarte, 1",-21.42917,-45.94722,Sao_Paulo,Alfenas,2022-03-26T20:19:14,30,13804,34,102,True,2,288.28
+"Estação Aragão, 52",-8.66667,-35.71667,Recife,Catende,2021-09-12T03:49:12,57,4964,22,66,False,3,277.63
+Setor de Peixoto,-28.44917,-52.2,Sao_Paulo,Marau,2022-03-12T14:49:03,62,21714,21,105,True,3,590.85
+"Colônia de Rodrigues, 8",-28.44917,-52.2,Sao_Paulo,Marau,2022-10-28T00:31:19,69,32103,43,-43,False,3,-211.75
+"Viela de Monteiro, 461",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-06-18T00:27:48,29,27467,25,75,True,2,406.92
+"Pátio Breno Pinto, 328",-8.05389,-34.88111,Recife,Recife,2022-03-15T22:29:45,43,11935,23,46,False,3,174.76
+"Estrada Natália da Conceição, 52",-17.74431,-48.62789,Sao_Paulo,Caldas Novas,2022-02-14T13:03:20,37,23864,39,156,False,2,404.28
+Via Caldeira,-19.32556,-41.25528,Sao_Paulo,Resplendor,2021-05-23T01:12:20,30,19700,29,29,True,4,189.74
+"Travessa Miguel Moura, 67",-25.42778,-49.27306,Sao_Paulo,Curitiba,2021-10-28T05:42:34,20,19835,19,76,True,2,223.77
+"Lago de Carvalho, 17",-20.87306,-48.29694,Sao_Paulo,Viradouro,2021-10-31T07:02:58,53,29834,29,116,False,2,363.05
+"Trevo Gabrielly Farias, 7",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2022-01-26T12:55:44,53,27212,17,85,True,3,511.76
+"Parque de Fernandes, 81",-26.22861,-52.67056,Sao_Paulo,Pato Branco,2022-06-13T08:28:48,41,19170,34,136,True,2,737.67
+"Aeroporto Moreira, 53",-29.2975,-51.50361,Sao_Paulo,Carlos Barbosa,2022-03-26T14:23:57,29,17249,38,190,True,3,1103.57
+"Condomínio de Silveira, 15",-21.41222,-42.19667,Sao_Paulo,Miracema,2022-09-08T00:15:16,46,14712,38,114,True,3,283.57
+"Lagoa André Cardoso, 86",-8.28333,-35.03333,Recife,Cabo,2023-03-11T11:48:46,40,9429,23,-23,False,2,-26.68
+"Distrito Moreira, 18",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-09-01T10:36:35,51,23392,27,108,False,1,220.55
+"Condomínio Emilly Rocha, 555",-22.45667,-47.53028,Sao_Paulo,Santa Gertrudes,2022-06-25T11:13:25,45,16122,29,145,False,2,558.06
+"Loteamento Caldeira, 74",-25.42944,-50.00639,Sao_Paulo,Palmeira,2022-02-25T22:32:19,51,19823,20,100,True,1,108.72
+Vila Isaac da Rocha,-20.25333,-43.80139,Sao_Paulo,Itabirito,2022-11-16T05:40:32,46,21267,44,132,False,3,1240.64
+"Vale Novaes, 72",-19.7625,-44.31389,Sao_Paulo,Esmeraldas,2021-05-18T16:48:31,60,15621,26,130,True,3,760.13
+"Jardim de Araújo, 704",-19.32556,-41.25528,Sao_Paulo,Resplendor,2021-11-02T20:08:07,57,32138,29,87,False,4,716.58
